@@ -1,6 +1,5 @@
 # Taquin réalisé par Timéo Duchet - IUT de Lens
 
-![Taquin](image.jpg)
 
 ## Introduction
 
