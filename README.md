@@ -1,19 +1,34 @@
-Bonjour à tous,
+# Taquin réalisé par Timéo Duchet - IUT de Lens
 
-Je suis ravi de vous présenter mon Taquin, réalisé avec passion lors de mon parcours à l'IUT de Lens. J'ai mis tout mon cœur et mes compétences dans ce projet pour créer un jeu de réflexion captivant. Permettez-moi de vous présenter les caractéristiques clés de mon Taquin :
+![Taquin](image.jpg)
 
-Tout d'abord, j'ai accordé une grande attention à l'interface utilisateur afin de rendre l'expérience de jeu aussi fluide et intuitive que possible. J'ai veillé à ce que les commandes soient simples et que les actions s'enchaînent naturellement, offrant ainsi une jouabilité agréable.
+## Introduction
 
-J'ai également inclus différents niveaux de difficulté pour que chacun puisse trouver son défi idéal. Que vous soyez un débutant ou un expert, vous pouvez choisir entre des puzzles faciles, intermédiaires ou difficiles. Cela garantit que le jeu reste stimulant et intéressant, peu importe votre niveau.
+Je suis fier de vous présenter mon Taquin, un jeu de réflexion captivant que j'ai développé avec passion lors de mon parcours à l'IUT de Lens. Dans ce projet, j'ai cherché à allier plaisir de jeu, esthétique et fonctionnalités avancées pour offrir une expérience unique aux joueurs.
 
-En ce qui concerne les visuels, j'ai soigneusement sélectionné des images attrayantes pour donner vie à mon Taquin. Chaque image est pensée pour offrir une expérience visuelle captivante, et j'ai travaillé sur le design de l'interface pour créer une atmosphère immersive.
+## Caractéristiques principales
 
-J'ai également intégré des fonctionnalités avancées pour enrichir le jeu. Vous trouverez des statistiques de jeu pour suivre votre progression, des indices pour vous aider en cas de blocage, et même des options de personnalisation pour rendre l'expérience plus personnelle et unique.
+### Interface utilisateur conviviale
 
-En résumé, mon Taquin est un jeu de puzzle complet, conçu pour vous offrir une expérience de jeu divertissante et stimulante. J'ai mis tout mon savoir-faire et ma créativité pour créer un jeu qui saura vous captiver, que vous soyez un amateur de puzzles ou simplement à la recherche d'un défi amusant.
+J'ai accordé une grande attention à l'ergonomie de l'interface utilisateur pour que les joueurs puissent profiter d'une expérience fluide et intuitive. Les commandes sont simples et les actions s'enchaînent naturellement, garantissant ainsi une jouabilité agréable.
 
-Je suis fier de cette réalisation et je suis reconnaissant de l'opportunité que j'ai eue de développer ce projet à l'IUT de Lens. J'espère que mon Taquin vous apportera autant de plaisir à y jouer que j'en ai eu à le créer.
+### Niveaux de difficulté variés
 
-Merci de votre attention et bonne découverte de mon Taquin !
+Mon Taquin propose différents niveaux de difficulté pour s'adapter aux préférences et aux compétences de chacun. Que vous soyez débutant ou expert, vous trouverez des puzzles faciles, intermédiaires et difficiles qui vous permettront de relever des défis adaptés à votre niveau.
 
-Timéo Duchet
+### Graphismes attrayants
+
+Les visuels occupent une place importante dans mon Taquin. J'ai sélectionné avec soin des images esthétiques et captivantes pour créer une expérience visuelle agréable. De plus, j'ai travaillé sur le design de l'interface pour créer une atmosphère immersive.
+
+### Fonctionnalités avancées
+
+Outre les fonctionnalités de base, j'ai ajouté des éléments avancés pour enrichir l'expérience de jeu. Les joueurs pourront profiter de statistiques de jeu pour suivre leur progression, de fonctionnalités d'indice pour les aider en cas de blocage, ainsi que d'options de personnalisation pour rendre le jeu unique.
+
+## Conclusion
+
+Mon Taquin est le fruit de mon travail acharné et de ma passion pour la création de jeux de réflexion. J'ai mis tout en œuvre pour offrir aux joueurs une expérience divertissante et stimulante, adaptée à tous les niveaux de compétence. Je suis reconnaissant de l'opportunité qui m'a été donnée de développer ce projet à l'IUT de Lens.
+
+Merci de votre attention et j'espère que vous apprécierez mon Taquin autant que j'ai aimé le créer.
+
+*Timéo Duchet*
+
